@@ -3,7 +3,8 @@
 #### [Link To Library](https://www.npmjs.com/package/reactjs-crontab)
 [![demo photo](assets/crontab.png)](https://www.npmjs.com/package/reactjs-crontab)
 
-리액트 오픈소스 라이브러리입니다. 많은 현대 애플리케이션에서 Crontab(Job Scheduling)을 필요로 한다는 것을 알게 되었고 오픈소스 형태로 제작해 NPM 커뮤니티에 기여하였습니다.
+Client-side Job Scheduling을 위해 제작한 리액트 오픈소스 라이브러리입니다.
+많은 애플리케이션에서 Crontab (Job Scheduling) 기능을 필요로 한다는 것을 알게 되었고 오픈소스 형태로 제작해 NPM 커뮤니티에 기여하였습니다
 
 - 역할: Founder & Maintainer
 - 개발 기간: 2020.10 ~ 2021.02
